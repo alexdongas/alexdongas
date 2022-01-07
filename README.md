@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
 
 
-##Contact Info
+#### Contact Info
 
 Skype: dongasa[at]outlook[.]com
+
 LinkedIn: https://www.linkedin.com/in/alexdongas/
