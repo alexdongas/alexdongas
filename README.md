@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 ## My name is Alex Dongas.
 
-#I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
+I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
 
+
+#Contact Info:
+Skype: dongasa[at]outlook[.]com
+LinkedIn: 
