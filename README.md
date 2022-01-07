@@ -24,4 +24,4 @@ I am an IT Specialist with 5 years' work experience. Currently seeking new oppor
 
 Skype: dongasa[at]outlook[.]com
 
-LinkedIn: https://www.linkedin.com/in/alexdongas/
+LinkedIn: <https://www.linkedin.com/in/alexdongas/>
