@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My name is Alex Dongas.
+
+#I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
+
