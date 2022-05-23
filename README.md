@@ -21,3 +21,12 @@ I am an IT Specialist with 5 years' work experience. Currently seeking new oppor
 Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
 
 
+#Contact
+XMPP: dongasa@xmpp.is
+Session/Oxen: 0585e4d2c76a629d030818626b0fbceebdbfb2d8fe21935ed4e4915d93d98a5766
+TeleGuard: FCLDALSUQ
+Jami: dongasa
+
+Status.im: 0x04c4316371bcfe7fb225c8808fc70eb3d01326bb2b542f9e66005d9d7ddee8d017777ca3a5a4537068ece518a4ebaa69ac0dcc393ecfab8cf63f1b959c9ec20b45
+
+
