@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## My name is Alex Dongas.
 
 I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
-
+Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
 
 
