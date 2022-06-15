@@ -21,7 +21,5 @@ I am an IT Specialist with 5 years' work experience. Currently seeking new oppor
 Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
 
 
-#### Contact Information
-XMPP: dongasa@xmpp.is
 
 
