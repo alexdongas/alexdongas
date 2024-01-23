@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
 Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
 
-Send me a message: https://form.jotform.com/240218167831050
+Send me a message: https://form.jotform.com/240218167831050  \
 Send me voicemail: https://speakpipe.com/alexdongas
 
 
