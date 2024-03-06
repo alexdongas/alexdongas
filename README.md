@@ -21,6 +21,7 @@ I am an IT Specialist with 5 years' work experience. Currently seeking new oppor
 Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
 
 Send me a message: https://form.jotform.com/240218167831050  \
-Send me voicemail: https://speakpipe.com/alexdongas  
+Send me voicemail: https://speakpipe.com/alexdongas    \
+I'm on Signal: https://signal.me/#eu/PAbKbIKjk71jU_pw4u6r-h2trK1LNnuKrPfUNVrX0mtj-zne-c1IdrWyDU3qrpGB
 
 
