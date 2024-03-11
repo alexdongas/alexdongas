@@ -22,6 +22,7 @@ Specializing in Help Desk, Application and Systems Support, System Administratio
 
 Send me a message: https://form.jotform.com/240218167831050  \
 Send me voicemail: https://speakpipe.com/alexdongas    \
-I'm on Signal: https://signal.me/#eu/PAbKbIKjk71jU_pw4u6r-h2trK1LNnuKrPfUNVrX0mtj-zne-c1IdrWyDU3qrpGB
+I'm on Signal: https://signal.me/#eu/PAbKbIKjk71jU_pw4u6r-h2trK1LNnuKrPfUNVrX0mtj-zne-c1IdrWyDU3qrpGB    \
+Email: alexdongas@mail.com
 
 
