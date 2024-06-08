@@ -1,26 +1,9 @@
-### Hi there 👋
+## Welcome
 
-<!--
-**alexdongas/alexdongas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced IT Specialist, Researcher and Consultant.
 
-Here are some ideas to get you started:
+You can connect to me and ask any questions via SimpleX Chat app by scanning the QR code below or by using [this link](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FhwzI2R92XV82CsRL736l4I1g-KOOocIc%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAlyvUuc82ebxP9_EDUNEWrQSBDqFFIMGHU9dzDPmFExQ%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My name is Alex Dongas.
-
-I am an IT Specialist with 5 years' work experience. Currently seeking new opportunities and projects.
-Specializing in Help Desk, Application and Systems Support, System Administration and Technical Consultation.
-
-Send me a message: https://form.jotform.com/240218167831050  \
-Send me voicemail: https://speakpipe.com/alexdongas    
+<img alt="Connect to me via SimpleX Chat" src="./simplex.png" width="240" />
 
 
